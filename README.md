@@ -1,4 +1,4 @@
-## Hi there, Im Jovany Dev ☝️🤓
+## Hola, soy Jovany Dev ☝️🤓
 
 <!--
 **JovanyDrop/JovanyDrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
