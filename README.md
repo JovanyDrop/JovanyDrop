@@ -107,12 +107,7 @@ He trabajado en soluciones enfocadas en:
   <table>
     <tr>
       <td>
-        <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=JovanyDrop&theme=high-contrast&color=FFFFFF&line=4F46E5&point=FFFFFF&area=true&hide_border=true"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img height="100" src="https://github-readme-stats.shion.dev/api/top-langs?username=JovanyDrop&theme=highcontrast&locale=es&title_color=4F46E5&hide_border=true&langs_count=5"/>
+        <img height="268" src="https://github-readme-activity-graph.vercel.app/graph?username=JovanyDrop&theme=high-contrast&color=FFFFFF&line=4F46E5&point=FFFFFF&area=true&hide_border=true"/>
       </td>
     </tr>
   </table>
