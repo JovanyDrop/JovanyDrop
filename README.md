@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Jovany González Tovar
+# 👋 Hola, soy Jovany González
 
 ### 💻 Desarrollador Web Fullstack · Java · Frontend · Backend · DB
 
